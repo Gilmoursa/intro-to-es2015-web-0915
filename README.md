@@ -1,3 +1,4 @@
+all done
 # ES2015
 JavaScript is going through some interesting changes right now. New methods, different ways of doing old things. In this guide, you'll learn about some of those changes, and why they're awesome. You can't run a lot of these in your browser yet, since they're still trying to implement them. Checkout [this](kangax.github.io/compat-table/es6) to see when your favorite browser will be getting these features baked in. In the mean time, we'll use a [transpiler](https://babeljs.io/). If you want to play along run this:
 
